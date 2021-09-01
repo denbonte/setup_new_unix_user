@@ -69,7 +69,7 @@ ssh-keygen -t rsa -b 4096 -f $USER_HOME/.ssh/$KEY
 To turn on and off the password/SSH publickey access, edit the associated lines in the SSH daemon config file and then restart the daemon:
 
 ```
-sudo nano /etc/ssh/sshdconfig
+sudo nano /etc/ssh/sshd_config
 sudo service ssh restart
 ```
 
