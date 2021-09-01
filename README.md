@@ -97,8 +97,12 @@ ssh $USER@$IP_ADDR_REMOTE -i $LOCAL_HOME/.ssh/$KEY
 ## Sources
 
 [The Complete Guide to “useradd” Command in Linux](https://www.tecmint.com/add-users-in-linux/)
+
 [Managing Users on Linux Systems](https://www.networkworld.com/article/3225109/managing-users-on-linux-systems.html)
+
 [SSH Keygen](https://www.ssh.com/ssh/keygen/)
+
 [Force SSH to only allow users with a key to log in](https://askubuntu.com/questions/346857/how-do-i-force-ssh-to-only-allow-users-with-a-key-to-log-in)
+
 [Copy SSH Keys to a Remote Host](https://askubuntu.com/questions/4830/easiest-way-to-copy-ssh-keys-to-another-machine)
 
